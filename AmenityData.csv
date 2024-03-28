@@ -1,0 +1,65 @@
+﻿5001,Garage 1,1,unit,50,NULL,month,Rental
+5002,Garage 2,1,unit,50,NULL,month,Rental
+5003,Garage 3,1,unit,50,NULL,month,Rental
+5004,Garage 4,1,unit,50,NULL,month,Rental
+5005,Garage 5,1,unit,50,NULL,month,Rental
+5006,Garage 6,1,unit,50,NULL,month,Rental
+5007,Garage 7,1,unit,50,NULL,month,Rental
+5008,Garage 8,1,unit,50,NULL,month,Rental
+5009,Garage 9,1,unit,50,NULL,month,Rental
+5010,Garage 10,1,unit,50,NULL,month,Rental
+5011,Garage 11,1,unit,50,NULL,month,Rental
+5012,Garage 12,1,unit,50,NULL,month,Rental
+5013,Garage 13,1,unit,50,NULL,month,Rental
+5014,Garage 14,1,unit,50,NULL,month,Rental
+5015,Garage 15,1,unit,50,NULL,month,Rental
+5016,Garage 16,1,unit,50,NULL,month,Rental
+5017,Garage 17,1,unit,50,NULL,month,Rental
+5018,Garage 18,1,unit,50,NULL,month,Rental
+5019,Garage 19,1,unit,50,NULL,month,Rental
+5020,Garage 20,1,unit,50,NULL,month,Rental
+5021,Garage 21,1,unit,50,NULL,month,Rental
+5022,Garage 22,1,unit,50,NULL,month,Rental
+5023,Garage 23,1,unit,50,NULL,month,Rental
+5024,Garage 24,1,unit,50,NULL,month,Rental
+5025,Garage 25,1,unit,50,NULL,month,Rental
+5026,Garage 26,1,unit,50,NULL,month,Rental
+5027,Garage 27,1,unit,50,NULL,month,Rental
+5028,Garage 28,1,unit,50,NULL,month,Rental
+5029,Garage 29,1,unit,50,NULL,month,Rental
+5030,Garage 30,1,unit,50,NULL,month,Rental
+5031,Garage 31,1,unit,50,NULL,month,Rental
+5032,Garage 32,1,unit,50,NULL,month,Rental
+5033,Storage Area 1,1,unit,40,NULL,month,Rental
+5034,Storage Area 2,1,unit,40,NULL,month,Rental
+5035,Storage Area 3,1,unit,40,NULL,month,Rental
+5036,Storage Area 4,1,unit,40,NULL,month,Rental
+5037,Storage Area 5,1,unit,40,NULL,month,Rental
+5038,Storage Area 6,1,unit,40,NULL,month,Rental
+5039,Storage Area 7,1,unit,40,NULL,month,Rental
+5040,Storage Area 8,1,unit,40,NULL,month,Rental
+5041,Storage Area 9,1,unit,40,NULL,month,Rental
+5042,Storage Area 10,1,unit,40,NULL,month,Rental
+5043,Storage Area 11,1,unit,40,NULL,month,Rental
+5044,Storage Area 12,1,unit,40,NULL,month,Rental
+5045,Storage Area 13,1,unit,40,NULL,month,Rental
+5046,Storage Area 14,1,unit,40,NULL,month,Rental
+5047,Storage Area 15,1,unit,40,NULL,month,Rental
+5048,Storage Area 16,1,unit,40,NULL,month,Rental
+5049,Storage Area 17,1,unit,40,NULL,month,Rental
+5050,Storage Area 18,1,unit,40,NULL,month,Rental
+5051,Storage Area 19,1,unit,40,NULL,month,Rental
+5052,Storage Area 20,1,unit,40,NULL,month,Rental
+5053,Storage Area 21,1,unit,40,NULL,month,Rental
+5054,Storage Area 22,1,unit,40,NULL,month,Rental
+5055,Storage Area 23,1,unit,40,NULL,month,Rental
+5056,Storage Area 24,1,unit,40,NULL,month,Rental
+5057,Rug Machine,3,unit,15,10,day,Loan
+5058,Hammer,1,pc,4,2,day,Loan
+5059,Screw Driver,1,pc,3,1,day,Loan
+5060,Hose,1,pc,5,3,day,Loan
+5061,Laundry Machine Tokens,10,pc,5,NULL,NULL,Sale
+5062,Laundry Supplies,1,pc,8,NULL,NULL,Sale
+5063,Curtain Rods,1,pc,12,NULL,NULL,Sale
+5064,Shower Curtain Liners,1,pc,5,NULL,NULL,Sale
+5065,Postage Stamps,5,pc,1,NULL,NULL,Sale
